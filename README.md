@@ -1,5 +1,3 @@
-# hello-world
-Just started
+# Carvana Masking Challenge {Kaggle}
 
 
-Hi this is my first time. Let's hope I can become a pro in a week.
